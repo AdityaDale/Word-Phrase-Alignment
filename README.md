@@ -64,6 +64,5 @@ The project is a part of research at the International Institute of Information 
 
    Treebank is a collection of manually parsed sentences. It is used as a training dataset for parser to learn parsing.
    
-   Using LUCY Treebank we manually generated parse of a sentence and cross check it with parse of Stanford Parser and you can see both Parse tree that we created and of Stanford  
-   Parser in the Treebank folder.
+   Using LUCY Treebank we manually generated parse of a sentence and cross check it with parse of Stanford Parser and you can see both Parse tree that we created and of Stanford Parser in the Treebank folder.
 
